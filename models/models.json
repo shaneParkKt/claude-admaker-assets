@@ -1,0 +1,389 @@
+{
+ "generator": "templates/model3d.mjs",
+ "source": "samples/model3d/specs.json",
+ "models": [
+  {
+   "id": "fizz-can",
+   "file": "fizz-can.glb",
+   "label": "음료 캔(라벨 그림)",
+   "use": "탄산·맥주·에너지 음료 히어로, 라벨 교체 예시",
+   "preset": "can",
+   "bytes": 53996,
+   "labelAspect": 2.11,
+   "preview": "previews/fizz-can.jpg",
+   "spec": {
+    "preset": "can",
+    "color": "#E8322B",
+    "label": {
+     "image": "labels/label_wrap.png"
+    }
+   }
+  },
+  {
+   "id": "green-bottle",
+   "file": "green-bottle.glb",
+   "label": "유리병 + 내용물 + 라벨",
+   "use": "음료·소스·주류 병",
+   "preset": "bottle",
+   "bytes": 81372,
+   "labelAspect": 3.25,
+   "preview": "previews/green-bottle.jpg",
+   "spec": {
+    "preset": "bottle",
+    "color": "#1E6B47",
+    "liquid": "#3A1A08",
+    "label": {
+     "image": "labels/label_wrap.png"
+    }
+   }
+  },
+  {
+   "id": "cream-jar",
+   "file": "cream-jar.glb",
+   "label": "뚜껑 용기",
+   "use": "크림·잼·영양제 통",
+   "preset": "jar",
+   "bytes": 46468,
+   "labelAspect": 8.5,
+   "preview": "previews/cream-jar.jpg",
+   "spec": {
+    "preset": "jar",
+    "accent": "#C8A24A",
+    "label": {
+     "color": "#F4D6C6"
+    }
+   }
+  },
+  {
+   "id": "coffee-cup",
+   "file": "coffee-cup.glb",
+   "label": "테이크아웃 컵",
+   "use": "커피·음료 컵(슬리브 색)",
+   "preset": "cup",
+   "bytes": 47536,
+   "labelAspect": 4.98,
+   "preview": "previews/coffee-cup.jpg",
+   "spec": {
+    "preset": "cup",
+    "accent": "#FFFFFF",
+    "label": {
+     "color": "#6B3E26"
+    }
+   }
+  },
+  {
+   "id": "pink-tube",
+   "file": "pink-tube.glb",
+   "label": "원통 스틱(금 캡)",
+   "use": "립밤·립스틱·스틱 화장품",
+   "preset": "tube",
+   "bytes": 31040,
+   "labelAspect": 1.88,
+   "preview": "previews/pink-tube.jpg",
+   "spec": {
+    "preset": "tube",
+    "color": "#FF7AA2",
+    "accent": "#E9D7A8",
+    "capMaterial": "gold"
+   }
+  },
+  {
+   "id": "package-box",
+   "file": "package-box.glb",
+   "label": "상자(앞면 그림)",
+   "use": "제품 상자·패키지·책",
+   "preset": "box",
+   "bytes": 83252,
+   "labelAspect": 0.73,
+   "preview": "previews/package-box.jpg",
+   "spec": {
+    "preset": "box",
+    "accent": "#1B2A4A",
+    "label": {
+     "image": "labels/label_front.png"
+    }
+   }
+  },
+  {
+   "id": "phone",
+   "file": "phone.glb",
+   "label": "스마트폰(화면 = screen 메시)",
+   "use": "앱 광고, 화면에 영상 재생(screenSlot)",
+   "preset": "phone",
+   "bytes": 82252,
+   "labelAspect": 0.45,
+   "preview": "previews/phone.jpg",
+   "spec": {
+    "preset": "phone",
+    "label": {
+     "image": "labels/screen.png"
+    }
+   }
+  },
+  {
+   "id": "point-coin",
+   "file": "point-coin.glb",
+   "label": "금 동전(앞면 그림)",
+   "use": "포인트·적립·쿠폰 보상",
+   "preset": "coin",
+   "bytes": 51784,
+   "labelAspect": 1,
+   "preview": "previews/point-coin.jpg",
+   "spec": {
+    "preset": "coin",
+    "label": {
+     "image": "labels/coin_face.png"
+    }
+   }
+  },
+  {
+   "id": "blue-gem",
+   "file": "blue-gem.glb",
+   "label": "보석",
+   "use": "프리미엄·VIP·보상 아이콘",
+   "preset": "gem",
+   "bytes": 6172,
+   "labelAspect": null,
+   "preview": "previews/blue-gem.jpg",
+   "spec": {
+    "preset": "gem",
+    "color": "#3FA9F5"
+   }
+  },
+  {
+   "id": "pill-capsule",
+   "file": "pill-capsule.glb",
+   "label": "알약 캡슐(두 색)",
+   "use": "영양제·약",
+   "preset": "capsule",
+   "bytes": 111692,
+   "labelAspect": null,
+   "preview": "previews/pill-capsule.jpg",
+   "spec": {
+    "preset": "capsule",
+    "color": "#F25F5C",
+    "accent": "#FFFFFF"
+   }
+  },
+  {
+   "id": "candy-sphere",
+   "file": "candy-sphere.glb",
+   "label": "광택 공",
+   "use": "버블·공·추상 오브젝트",
+   "preset": "sphere",
+   "bytes": 93700,
+   "labelAspect": null,
+   "preview": "previews/candy-sphere.jpg",
+   "spec": {
+    "preset": "sphere",
+    "color": "#7B61FF",
+    "material": "candy"
+   }
+  },
+  {
+   "id": "donut",
+   "file": "donut.glb",
+   "label": "도넛·링",
+   "use": "디저트·반지·튜브",
+   "preset": "torus",
+   "bytes": 94572,
+   "labelAspect": null,
+   "preview": "previews/donut.jpg",
+   "spec": {
+    "preset": "torus",
+    "color": "#F2A65A",
+    "material": "glossy"
+   }
+  },
+  {
+   "id": "star",
+   "file": "star.glb",
+   "label": "입체 별(베벨)",
+   "use": "평점·혜택 강조",
+   "preset": "star",
+   "bytes": 9844,
+   "labelAspect": null,
+   "preview": "previews/star.jpg",
+   "spec": {
+    "preset": "star"
+   }
+  },
+  {
+   "id": "heart",
+   "file": "heart.glb",
+   "label": "입체 하트(베벨)",
+   "use": "좋아요·감성·선물",
+   "preset": "heart",
+   "bytes": 27468,
+   "labelAspect": null,
+   "preview": "previews/heart.jpg",
+   "spec": {
+    "preset": "heart"
+   }
+  },
+  {
+   "id": "hex-badge",
+   "file": "hex-badge.glb",
+   "label": "크롬 육각 배지",
+   "use": "배지·인증 아이콘",
+   "preset": "polygon",
+   "bytes": 6420,
+   "labelAspect": null,
+   "preview": "previews/hex-badge.jpg",
+   "spec": {
+    "preset": "polygon",
+    "color": "#2EC4B6",
+    "material": "chrome"
+   }
+  },
+  {
+   "id": "frosted-bottle",
+   "file": "frosted-bottle.glb",
+   "label": "젖빛 병(금 캡)",
+   "use": "향수·화장수·프리미엄 병",
+   "preset": "bottle",
+   "bytes": 48284,
+   "labelAspect": 3.25,
+   "preview": "previews/frosted-bottle.jpg",
+   "spec": {
+    "preset": "bottle",
+    "material": "frosted",
+    "glass": "#FFFFFF",
+    "liquid": null,
+    "accent": "#C9A86A",
+    "capMaterial": "gold",
+    "label": {
+     "color": "#FFFFFF"
+    }
+   }
+  },
+  {
+   "id": "neon-bolt",
+   "file": "neon-bolt.glb",
+   "label": "네온 번개(직접 그린 외곽선)",
+   "use": "에너지·속도·번쩍 강조",
+   "preset": "parts",
+   "bytes": 7436,
+   "labelAspect": null,
+   "preview": "previews/neon-bolt.jpg",
+   "spec": {
+    "parts": [
+     {
+      "shape": "extrude",
+      "points": [
+       [
+        0.1,
+        0.6
+       ],
+       [
+        -0.3,
+        0
+       ],
+       [
+        -0.02,
+        0
+       ],
+       [
+        -0.15,
+        -0.6
+       ],
+       [
+        0.3,
+        0.08
+       ],
+       [
+        0.02,
+        0.08
+       ],
+       [
+        0.2,
+        0.6
+       ]
+      ],
+      "depth": 0.18,
+      "material": "neon",
+      "color": "#FFE14D"
+     }
+    ]
+   }
+  },
+  {
+   "id": "glass-bottle",
+   "file": "glass-bottle.glb",
+   "label": "투명 유리병(밑 소재가 비침)",
+   "use": "음료·주스·소주 병",
+   "preset": "bottle",
+   "bytes": 66176,
+   "labelAspect": 3.25,
+   "preview": "previews/glass-bottle.jpg",
+   "spec": {
+    "preset": "bottle",
+    "material": "glass",
+    "glass": "#CFE8FF",
+    "liquid": "#E85D75",
+    "accent": "#FFFFFF",
+    "capMaterial": "glossy",
+    "label": {
+     "color": "#FFFFFF"
+    }
+   }
+  },
+  {
+   "id": "gold-star6",
+   "file": "gold-star6.glb",
+   "label": "육각 금별",
+   "use": "보상·랭킹·이벤트",
+   "preset": "star",
+   "bytes": 11336,
+   "labelAspect": null,
+   "preview": "previews/gold-star6.jpg",
+   "spec": {
+    "preset": "star",
+    "material": "gold",
+    "size": {
+     "points": 6,
+     "inner": 0.55
+    }
+   }
+  },
+  {
+   "id": "black-card",
+   "file": "black-card.glb",
+   "label": "검은 카드(직접 조립)",
+   "use": "카드·멤버십·결제",
+   "preset": "parts",
+   "bytes": 24888,
+   "labelAspect": null,
+   "preview": "previews/black-card.jpg",
+   "spec": {
+    "parts": [
+     {
+      "shape": "extrude",
+      "outline": "roundRect",
+      "width": 1,
+      "height": 0.6,
+      "radius": 0.12,
+      "depth": 0.06,
+      "bevel": 0.02,
+      "material": "glossy",
+      "color": "#111111"
+     },
+     {
+      "shape": "plane",
+      "width": 0.6,
+      "height": 0.08,
+      "z": 0.032,
+      "position": [
+       0,
+       -0.1,
+       0
+      ],
+      "material": "chrome",
+      "color": "#DDDDDD",
+      "name": "stripe"
+     }
+    ]
+   }
+  }
+ ]
+}
