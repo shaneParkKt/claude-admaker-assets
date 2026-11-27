@@ -384,6 +384,730 @@
      }
     ]
    }
+  },
+  {
+   "id": "croissant",
+   "file": "croissant.glb",
+   "label": "크루아상",
+   "use": "베이커리·카페·브런치",
+   "preset": "external",
+   "bytes": 340532,
+   "labelAspect": null,
+   "preview": "previews/croissant.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Croissant",
+    "url": "https://polyhaven.com/a/croissant",
+    "author": "Greg Zaal, Dario Barresi",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "carrot-cake",
+   "file": "carrot-cake.glb",
+   "label": "당근 케이크(홀)",
+   "use": "디저트·카페·기념일",
+   "preset": "external",
+   "bytes": 750752,
+   "labelAspect": null,
+   "preview": "previews/carrot-cake.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Carrot Cake",
+    "url": "https://polyhaven.com/a/carrot_cake",
+    "author": "Greg Zaal, James Ray Cock",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "strawberry-cake",
+   "file": "strawberry-cake.glb",
+   "label": "딸기 초코 케이크",
+   "use": "디저트·생일·시즌 메뉴",
+   "preset": "external",
+   "bytes": 699172,
+   "labelAspect": null,
+   "preview": "previews/strawberry-cake.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Strawberry Chocolate Cake",
+    "url": "https://polyhaven.com/a/strawberry_chocolate_cake",
+    "author": "Kuutti Siitonen",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "apple",
+   "file": "apple.glb",
+   "label": "빨간 사과",
+   "use": "과일·신선식품·건강",
+   "preset": "external",
+   "bytes": 189776,
+   "labelAspect": null,
+   "preview": "previews/apple.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Food Apple 01",
+    "url": "https://polyhaven.com/a/food_apple_01",
+    "author": "Oliver Harries",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "lemon",
+   "file": "lemon.glb",
+   "label": "레몬",
+   "use": "상큼함·음료·비타민",
+   "preset": "external",
+   "bytes": 276736,
+   "labelAspect": null,
+   "preview": "previews/lemon.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Lemon",
+    "url": "https://polyhaven.com/a/lemon",
+    "author": "Kuutti Siitonen",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "avocado",
+   "file": "avocado.glb",
+   "label": "아보카도(통)",
+   "use": "샐러드·건강식·식품",
+   "preset": "external",
+   "bytes": 260512,
+   "labelAspect": null,
+   "preview": "previews/avocado.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Food Avocado 01",
+    "url": "https://polyhaven.com/a/food_avocado_01",
+    "author": "Oliver Harries",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "pomegranate",
+   "file": "pomegranate.glb",
+   "label": "석류",
+   "use": "과일·뷰티 성분·음료",
+   "preset": "external",
+   "bytes": 269972,
+   "labelAspect": null,
+   "preview": "previews/pomegranate.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Food Pomegranate 01",
+    "url": "https://polyhaven.com/a/food_pomegranate_01",
+    "author": "Oliver Harries",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "kiwi",
+   "file": "kiwi.glb",
+   "label": "키위",
+   "use": "과일·비타민·주스",
+   "preset": "external",
+   "bytes": 463116,
+   "labelAspect": null,
+   "preview": "previews/kiwi.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Food Kiwi 01",
+    "url": "https://polyhaven.com/a/food_kiwi_01",
+    "author": "Oliver Harries",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "cutting-board",
+   "file": "cutting-board.glb",
+   "label": "나무 도마",
+   "use": "요리·주방용품·푸드 받침",
+   "preset": "external",
+   "bytes": 274236,
+   "labelAspect": null,
+   "preview": "previews/cutting-board.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Wooden Cutting Board",
+    "url": "https://polyhaven.com/a/wooden_cutting_board",
+    "author": "Kuutti Siitonen",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "wine-bottles",
+   "file": "wine-bottles.glb",
+   "label": "와인병 네 개",
+   "use": "주류·레스토랑·파티",
+   "preset": "external",
+   "bytes": 711400,
+   "labelAspect": null,
+   "preview": "previews/wine-bottles.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Wine Bottles 01",
+    "url": "https://polyhaven.com/a/wine_bottles_01",
+    "author": "Rico Cilliers, Jurita Burger",
+    "license": "CC0-1.0",
+    "note": "주류 — 대상·매체 규정 확인"
+   }
+  },
+  {
+   "id": "brass-goblets",
+   "file": "brass-goblets.glb",
+   "label": "황동 고블릿 잔 두 개",
+   "use": "건배·축하·프리미엄",
+   "preset": "external",
+   "bytes": 646700,
+   "labelAspect": null,
+   "preview": "previews/brass-goblets.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Brass Goblets",
+    "url": "https://polyhaven.com/a/brass_goblets",
+    "author": "Tina",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "flower-jug",
+   "file": "flower-jug.glb",
+   "label": "꽃무늬 도자기 주전자",
+   "use": "우유·주방·홈카페",
+   "preset": "external",
+   "bytes": 125044,
+   "labelAspect": null,
+   "preview": "previews/flower-jug.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Jug 01",
+    "url": "https://polyhaven.com/a/jug_01",
+    "author": "Kuutti Siitonen",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "film-camera",
+   "file": "film-camera.glb",
+   "label": "필름 카메라(스트랩)",
+   "use": "사진·여행·레트로",
+   "preset": "external",
+   "bytes": 930100,
+   "labelAspect": null,
+   "preview": "previews/film-camera.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Camera 01",
+    "url": "https://polyhaven.com/a/Camera_01",
+    "author": "Rajil Jose Macatangay",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "retro-tv",
+   "file": "retro-tv.glb",
+   "label": "브라운관 TV",
+   "use": "레트로·방송·화면 슬롯",
+   "preset": "external",
+   "bytes": 217244,
+   "labelAspect": null,
+   "preview": "previews/retro-tv.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Television 01",
+    "url": "https://polyhaven.com/a/Television_01",
+    "author": "Gabriel Radić",
+    "license": "CC0-1.0",
+    "note": "앞면에 실제 브랜드 글자(VTECH)가 보임 — 정면 클로즈업 피하기"
+   }
+  },
+  {
+   "id": "boombox",
+   "file": "boombox.glb",
+   "label": "붐박스",
+   "use": "음악·오디오·레트로 이벤트",
+   "preset": "external",
+   "bytes": 490148,
+   "labelAspect": null,
+   "preview": "previews/boombox.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Boombox",
+    "url": "https://polyhaven.com/a/boombox",
+    "author": "Thomas Paul Mouilleron",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "cassette-player",
+   "file": "cassette-player.glb",
+   "label": "카세트 플레이어",
+   "use": "레트로·녹음·추억",
+   "preset": "external",
+   "bytes": 358224,
+   "labelAspect": null,
+   "preview": "previews/cassette-player.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Cassette Player",
+    "url": "https://polyhaven.com/a/cassette_player",
+    "author": "Oday Abuzaeed",
+    "license": "CC0-1.0",
+    "note": "앞면에 작은 제조사 글자가 보임 — 정면 클로즈업 피하기"
+   }
+  },
+  {
+   "id": "video-camera",
+   "file": "video-camera.glb",
+   "label": "빈티지 영상 카메라",
+   "use": "영상·촬영·영화제",
+   "preset": "external",
+   "bytes": 442576,
+   "labelAspect": null,
+   "preview": "previews/video-camera.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Vintage Video Camera",
+    "url": "https://polyhaven.com/a/vintage_video_camera",
+    "author": "James Ray Cock, Jenelle van Heerden",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "desk-lamp",
+   "file": "desk-lamp.glb",
+   "label": "주황 스탠드",
+   "use": "공부·사무·조명",
+   "preset": "external",
+   "bytes": 502232,
+   "labelAspect": null,
+   "preview": "previews/desk-lamp.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Desk Lamp Arm 01",
+    "url": "https://polyhaven.com/a/desk_lamp_arm_01",
+    "author": "Yann Kervran, Kuutti Siitonen",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "pocket-watch",
+   "file": "pocket-watch.glb",
+   "label": "회중시계",
+   "use": "시간·마감·클래식",
+   "preset": "external",
+   "bytes": 289224,
+   "labelAspect": null,
+   "preview": "previews/pocket-watch.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Vintage Pocket Watch",
+    "url": "https://polyhaven.com/a/vintage_pocket_watch",
+    "author": "Tal Swicegood",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "binoculars",
+   "file": "binoculars.glb",
+   "label": "쌍안경",
+   "use": "탐색·발견·여행",
+   "preset": "external",
+   "bytes": 360012,
+   "labelAspect": null,
+   "preview": "previews/binoculars.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Binoculars",
+    "url": "https://polyhaven.com/a/binoculars",
+    "author": "Derek Wight",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "round-glasses",
+   "file": "round-glasses.glb",
+   "label": "동그란 안경",
+   "use": "안경·독서·지적인 느낌",
+   "preset": "external",
+   "bytes": 276968,
+   "labelAspect": null,
+   "preview": "previews/round-glasses.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Round Spectacles",
+    "url": "https://polyhaven.com/a/round_spectacles",
+    "author": "Sean Buckley",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "rubber-duck",
+   "file": "rubber-duck.glb",
+   "label": "고무 오리",
+   "use": "키즈·목욕·귀여운 마스코트",
+   "preset": "external",
+   "bytes": 90948,
+   "labelAspect": null,
+   "preview": "previews/rubber-duck.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Rubber Duck Toy",
+    "url": "https://polyhaven.com/a/rubber_duck_toy",
+    "author": "Plat251",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "marble-bust",
+   "file": "marble-bust.glb",
+   "label": "대리석 흉상",
+   "use": "예술·미술관·고급스러움",
+   "preset": "external",
+   "bytes": 351904,
+   "labelAspect": null,
+   "preview": "previews/marble-bust.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Marble Bust 01",
+    "url": "https://polyhaven.com/a/marble_bust_01",
+    "author": "Rico Cilliers",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "potted-plant",
+   "file": "potted-plant.glb",
+   "label": "토분 화분 식물",
+   "use": "인테리어·공간·친환경",
+   "preset": "external",
+   "bytes": 888492,
+   "labelAspect": null,
+   "preview": "previews/potted-plant.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Potted Plant 02",
+    "url": "https://polyhaven.com/a/potted_plant_02",
+    "author": "Rico Cilliers",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "succulent",
+   "file": "succulent.glb",
+   "label": "흰 화분 다육이",
+   "use": "인테리어·책상·선물",
+   "preset": "external",
+   "bytes": 399144,
+   "labelAspect": null,
+   "preview": "previews/succulent.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Potted Plant 04",
+    "url": "https://polyhaven.com/a/potted_plant_04",
+    "author": "James Ray Cock",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "cat-statue",
+   "file": "cat-statue.glb",
+   "label": "고양이 석상",
+   "use": "반려동물·장식·감성",
+   "preset": "external",
+   "bytes": 716180,
+   "labelAspect": null,
+   "preview": "previews/cat-statue.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Concrete Cat Statue",
+    "url": "https://polyhaven.com/a/concrete_cat_statue",
+    "author": "Rico Cilliers, Riley Queen",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "treasure-chest",
+   "file": "treasure-chest.glb",
+   "label": "보물상자",
+   "use": "보상·이벤트·랜덤박스",
+   "preset": "external",
+   "bytes": 1060388,
+   "labelAspect": null,
+   "preview": "previews/treasure-chest.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Treasure Chest",
+    "url": "https://polyhaven.com/a/treasure_chest",
+    "author": "Rico Cilliers",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "suitcases",
+   "file": "suitcases.glb",
+   "label": "빈티지 여행가방 두 개",
+   "use": "여행·휴가·이사",
+   "preset": "external",
+   "bytes": 498976,
+   "labelAspect": null,
+   "preview": "previews/suitcases.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Vintage Suitcase",
+    "url": "https://polyhaven.com/a/vintage_suitcase",
+    "author": "Maximilian Schuster",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "cardboard-box",
+   "file": "cardboard-box.glb",
+   "label": "택배 상자",
+   "use": "배송·택배·언박싱",
+   "preset": "external",
+   "bytes": 317460,
+   "labelAspect": null,
+   "preview": "previews/cardboard-box.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Cardboard Box 01",
+    "url": "https://polyhaven.com/a/cardboard_box_01",
+    "author": "Rahul Chaudhary",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "lounge-chair",
+   "file": "lounge-chair.glb",
+   "label": "가죽 라운지 체어",
+   "use": "가구·휴식·프리미엄 리빙",
+   "preset": "external",
+   "bytes": 292872,
+   "labelAspect": null,
+   "preview": "previews/lounge-chair.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Mid Century Lounge Chair",
+    "url": "https://polyhaven.com/a/mid_century_lounge_chair",
+    "author": "Kuutti Siitonen",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "arm-chair",
+   "file": "arm-chair.glb",
+   "label": "원목 암체어",
+   "use": "가구·북유럽 인테리어",
+   "preset": "external",
+   "bytes": 315380,
+   "labelAspect": null,
+   "preview": "previews/arm-chair.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Modern Arm Chair 01",
+    "url": "https://polyhaven.com/a/modern_arm_chair_01",
+    "author": "Vibrant Nordic",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "sofa",
+   "file": "sofa.glb",
+   "label": "클래식 소파",
+   "use": "가구·거실·리빙",
+   "preset": "external",
+   "bytes": 296724,
+   "labelAspect": null,
+   "preview": "previews/sofa.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Sofa 03",
+    "url": "https://polyhaven.com/a/sofa_03",
+    "author": "Fran Calvente",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "ukulele",
+   "file": "ukulele.glb",
+   "label": "우쿨렐레",
+   "use": "음악·취미·여름",
+   "preset": "external",
+   "bytes": 321152,
+   "labelAspect": null,
+   "preview": "previews/ukulele.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Ukulele 01",
+    "url": "https://polyhaven.com/a/Ukulele_01",
+    "author": "Joseph Burgan",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "chess-set",
+   "file": "chess-set.glb",
+   "label": "체스판",
+   "use": "전략·두뇌·게임",
+   "preset": "external",
+   "bytes": 1050288,
+   "labelAspect": null,
+   "preview": "previews/chess-set.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Chess Set",
+    "url": "https://polyhaven.com/a/chess_set",
+    "author": "Riley Queen",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "conch-shell",
+   "file": "conch-shell.glb",
+   "label": "소라 껍데기",
+   "use": "바다·여름·자연 소재",
+   "preset": "external",
+   "bytes": 391672,
+   "labelAspect": null,
+   "preview": "previews/conch-shell.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Lambis Shell",
+    "url": "https://polyhaven.com/a/lambis_shell",
+    "author": "Kuutti Siitonen",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "baseball",
+   "file": "baseball.glb",
+   "label": "야구공",
+   "use": "야구·스포츠·응원",
+   "preset": "external",
+   "bytes": 603548,
+   "labelAspect": null,
+   "preview": "previews/baseball.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Baseball 01",
+    "url": "https://polyhaven.com/a/baseball_01",
+    "author": "Rico Cilliers",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "rubber-boots",
+   "file": "rubber-boots.glb",
+   "label": "초록 장화 두 켤레",
+   "use": "장마·아웃도어·농장",
+   "preset": "external",
+   "bytes": 433868,
+   "labelAspect": null,
+   "preview": "previews/rubber-boots.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Rubber Boots",
+    "url": "https://polyhaven.com/a/rubber_boots",
+    "author": "L",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "kr-payphone",
+   "file": "kr-payphone.glb",
+   "label": "한국 공중전화",
+   "use": "레트로·연락·추억(한국)",
+   "preset": "external",
+   "bytes": 1309084,
+   "labelAspect": null,
+   "preview": "previews/kr-payphone.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Korean Public Payphone 01",
+    "url": "https://polyhaven.com/a/korean_public_payphone_01",
+    "author": "UM JOORIN",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "kr-fire-extinguisher",
+   "file": "kr-fire-extinguisher.glb",
+   "label": "한국 소화기(받침대)",
+   "use": "안전·소방·캠페인(한국)",
+   "preset": "external",
+   "bytes": 722072,
+   "labelAspect": null,
+   "preview": "previews/kr-fire-extinguisher.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Korean Fire Extinguisher 01",
+    "url": "https://polyhaven.com/a/korean_fire_extinguisher_01",
+    "author": "UM JOORIN",
+    "license": "CC0-1.0"
+   }
+  },
+  {
+   "id": "garden-gnome",
+   "file": "garden-gnome.glb",
+   "label": "정원 난쟁이 인형",
+   "use": "정원·키치·마스코트",
+   "preset": "external",
+   "bytes": 406460,
+   "labelAspect": null,
+   "preview": "previews/garden-gnome.jpg",
+   "external": true,
+   "coverage": "full",
+   "source": {
+    "name": "Poly Haven / Garden Gnome",
+    "url": "https://polyhaven.com/a/garden_gnome",
+    "author": "Bhargav Kubal",
+    "license": "CC0-1.0"
+   }
   }
- ]
+ ],
+ "external": "samples/model3d/external.json"
 }
